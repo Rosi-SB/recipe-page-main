@@ -53,8 +53,8 @@ body{
     background-color: hsl(330, 100%, 98%);
 } 
 .preparation{
-    margin-left: 4rem;
-    padding-bottom: 2rem;
+    margin-left: 2rem;
+    padding-bottom: 1rem;
 }
 .instructions, .ingredients{
     padding-left: 40px;   
