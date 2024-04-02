@@ -51,6 +51,7 @@ body{
 }
 .box-preparation{
     background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
 } 
 .preparation{
     margin-left: 2rem;
