@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(30, 54%, 90%);
+    align-items: center;
+    justify-content: center;
+    display: flexbox;
+    height: 100%;
+    padding: 4rem;
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background-color: hsl(330, 100%, 98%);
+    font-family: "Outfit", sans-serif;
+    color: hsl(30, 10%, 34%);
+    padding: 20px;
+   
+}
+.title{
+    color: hsl(24, 5%, 18%);
+    font-size: 2rem;
+    font-weight: lighter;
+    font-family: "Young Serif", serif;
+    padding: 10px;
+
+}
+.container h2{
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%);
+    padding: 20px;
+}
+.container h3{
+    color: hsl(332, 51%, 32%);
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+.container img{
+    max-width: 100%;
+    border-radius: 20px;
+}
+.container ol, li{
+    padding: 5px;
+}
+.container p{
+    margin-left: 1rem;
+}
+.box-preparation{
+    margin-left: 4rem;
+    padding-bottom: 2rem;
+}
+.instructions, .ingredients{
+    padding-left: 40px;   
+}
+hr {
+    margin-top: 2.1rem;
+    opacity: .3;
+}
+span, li::marker{
+    color: hsl(14, 45%, 36%);
+    font-weight: bolder;
+} 
+table{
+    padding-left: 4rem; 
+}
+tr{
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+    grid-template-rows: 5fr;
+    gap: 4rem;
+    padding: 20px;
+    border-bottom: rgba(204, 204, 204, 0.181) ridge;
+    
+}
+th{
+    font-weight: normal;
+} 
+.attribution {
+    padding-top: 10px;
+    font-size: 11px; 
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
