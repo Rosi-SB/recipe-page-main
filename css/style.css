@@ -51,6 +51,8 @@ body{
 }
 .box-preparation{
     background-color: hsl(330, 100%, 98%);
+} 
+.preparation{
     margin-left: 4rem;
     padding-bottom: 2rem;
 }
