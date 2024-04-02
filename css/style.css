@@ -36,7 +36,6 @@ body{
 }
 .container h3{
     color: hsl(332, 51%, 32%);
-    padding-top: 3rem;
     padding-bottom: 1rem;
 }
 .container img{
@@ -51,11 +50,12 @@ body{
 }
 .box-preparation{
     background-color: hsl(330, 100%, 98%);
+    margin-top: 2rem;
     border-radius: 10px;
 } 
 .preparation{
-    margin-left: 3rem;
-    padding-bottom: 2rem;
+    margin-left: 4rem;
+    padding: 10px;   
 }
 .instructions, .ingredients{
     padding-left: 40px;   
