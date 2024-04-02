@@ -15,7 +15,6 @@ body{
     max-width: 800px;
     margin: 0 auto;
     border-radius: 20px;
-    background-color: hsl(330, 100%, 98%);
     font-family: "Outfit", sans-serif;
     color: hsl(30, 10%, 34%);
     padding: 20px;
@@ -50,6 +49,7 @@ body{
     margin-left: 1rem;
 }
 .box-preparation{
+    background-color: hsl(330, 100%, 98%);
     margin-left: 4rem;
     padding-bottom: 2rem;
 }
