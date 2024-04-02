@@ -12,6 +12,7 @@ body{
     padding: 4rem;
 }
 .container{
+    background-color:hsl(0, 0%, 100%);
     max-width: 800px;
     margin: 0 auto;
     border-radius: 20px;
